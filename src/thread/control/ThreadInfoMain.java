@@ -23,6 +23,6 @@ public class ThreadInfoMain {
     log("myThread.getPriority()=" + myThread.getPriority()); //우선순위, 기본값=5, 숫자가 높을수록 우선순위가 높음
     log("myThread.getThreadGroup()=" + myThread.getThreadGroup());
     log("myThread.getState()=" + myThread.getState()); //실행될 수 있는 상태인지?
-    }
 
+    }
 }
